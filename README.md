@@ -16,7 +16,7 @@ The Windows version of aprsc is new, and it has only been tested on a few server
 If you are considering to run aprsc on Windows, please drop a note on the mailing list, just so that we know someone is actually using it.
 
 Download aprsc
-Grab the latest version from the Windows installers download directory.
+Download it here:http://he.fi/aprsc/down/win/
 
 Extract it
 Extract the contents of the zip file to C:\aprsc. You should end up with a small set of .cmd files to start up and shutdown aprsc, a couple of .exe files and a number of .dll files in C:\aprsc\, and a few subdirectories. \aprsc\web\ contains the status display web content served by aprsc's internal HTTP server, \aprsc\logs\ will contain log files, \aprsc\data\ is empty at first but might contain aprsc's data files at some point. \aprsc\doc\ contains copies of aprsc documentation.
